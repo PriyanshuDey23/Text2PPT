@@ -1,0 +1,6 @@
+google-generativeai
+python-pptx
+python-dotenv
+streamlit
+
+-e .
